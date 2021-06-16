@@ -1,4 +1,4 @@
-# _Arthur Lee's Portfolio Website_
+# _Arthur Lee's address book Website_
 
 #### _A simple website that keep tracks of user address inputs_
 
